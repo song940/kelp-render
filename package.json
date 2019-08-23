@@ -1,0 +1,30 @@
+{
+  "name": "kelp-render",
+  "version": "1.0.4",
+  "description": "Rendering Eingne for Kelp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/kelp-render.git"
+  },
+  "keywords": [
+    "kelp",
+    "render"
+  ],
+  "author": "lsong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/song940/kelp-render/issues"
+  },
+  "homepage": "https://github.com/song940/kelp-render#readme",
+  "devDependencies": {
+    "kelp": "^2.0.2"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {}
+}
